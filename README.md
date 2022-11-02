@@ -2,7 +2,7 @@
 A new Flutter project.
 This is my new flutter project and also my first portfolio for make Android mobile app.
 
-This is just for my pracice.
+This is just for my practice.
 
 ## Getting Started
 
