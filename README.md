@@ -1,5 +1,5 @@
 # ecomerce_store_app
-A new Flutter project.
+(Flutter version 3.0.5 and Dart version 2.17.6)
 This is my new flutter project and also my first portfolio for make Android mobile app.
 
 This is just for my practice.
