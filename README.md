@@ -3,8 +3,6 @@
 This is my new flutter project and also my first portfolio for make Android mobile app.
 This app contains splash screen, onboarding screen, e-commerce page, profile page, also with restApi (postman). This is just for practicing. 
 
-This is just for my practice.
-
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
