@@ -1,6 +1,7 @@
-# ecomerce_store_app
+# ecomerce_store_app_flutter
 (Flutter version 3.0.5 and Dart version 2.17.6)
 This is my new flutter project and also my first portfolio for make Android mobile app.
+This app contains splash screen, onboarding screen, e-commerce page, profile page, also with restApi (postman). This is just for practicing. 
 
 This is just for my practice.
 
